@@ -1,0 +1,102 @@
+.flex input, .bitadd input {
+    font-size: 20px;
+}
+
+.amount-box {
+    background: #3538D0;
+    padding: 20px;
+    width: 25%;
+    text-align: center;
+    border-radius: 3px;
+    color: white;
+}
+
+.bitadd input {
+    height: 47px;
+}
+
+.bitadd span {
+    color: red;
+}
+
+.bitcoin .flex {
+    display: flex;
+    width: 394px;
+    margin: 30px 0;
+}
+
+.bitadd {
+    flex-direction: column;
+}
+
+.flex1 {
+    display: flex;
+    height: 47px;
+    padding: 0px 25px;
+    background: #eeeefc;
+    justify-content: space-between;
+    width: 64px;
+}
+
+.bitcoin {
+    display: flex;
+    flex-direction: column;
+    width: 394px;
+}
+
+.amount-box {
+    background: #3538D0;
+    padding: 20px;
+    width: 40%;
+    text-align: center;
+    border-radius: 3px;
+    color: white;
+    height: 100px;
+}
+
+.six {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.pay-btn {
+    text-align: center;
+}
+
+.pay-btn button {
+    background: #3538D0;
+    color: white;
+    border: none;
+    padding: 12px 74px;
+    border-radius: 4px;
+}
+
+.en {
+    background-image: url('../../../HCBTC-Assets//icons//bitcoin.svg');
+}
+
+.options {
+    position: absolute;
+    margin-top: 221px;
+    margin-left: 267px;
+}
+
+input[type=text] {
+    border: 1px solid #eeeefc;
+}
+
+@media screen and (max-width: 992px) {
+    .amount-box {
+        display: none;
+    }
+    .flex input, .bitadd input {
+        font-size: 10px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .amount-box {
+        display: none;
+    }
+}

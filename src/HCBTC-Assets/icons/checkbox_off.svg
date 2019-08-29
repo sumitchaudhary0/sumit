@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>icons/checkbox_off</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/checkbox_off" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(1.995000, 1.995000)" fill-rule="nonzero" stroke="#3538D0">
+            <path d="M2.10803593,0 L17.9019641,0 C19.0117558,0 19.9271811,0.867173469 20.0046854,1.95796588 L20.01,2.10803593 L20.01,17.9019641 C20.01,19.0117558 19.1465643,19.9271811 18.0525216,20.0046854 L17.9019641,20.01 L2.10803593,20.01 C0.998244182,20.01 0.0828188968,19.1465643 0.00531460316,18.0525216 L0,17.9019641 L0,2.10803593 C0,0.998244182 0.863435652,0.0828188968 1.95747834,0.00531460316 L2.10803593,0 L17.9019641,0 L2.10803593,0 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

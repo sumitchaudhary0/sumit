@@ -1,0 +1,30 @@
+.navbar
+{
+    display: flex;
+    justify-content: space-between;
+    font-size:12px;
+  padding: 10px 0;
+}
+.navbar ul{
+  display: flex;
+}
+.navbar ul li{
+    list-style: none;
+}
+.navbar ul li a{
+    text-decoration: none;
+    color:white;
+    padding: 8px 13px;
+    margin: 0 10px;
+}
+.navbar ul li:last-child a{
+   
+    color: blue !important;
+    background: white;
+    border-radius: 4px;
+}
+
+.navbar img {
+
+    width: 80px;
+}

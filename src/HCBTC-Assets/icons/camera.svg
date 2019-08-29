@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>icons/camera</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/camera" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(2.995000, 2.995000)" fill="#BABCC5" fill-rule="nonzero">
+            <circle id="Oval" cx="8.6048" cy="8.6048" r="2.56128"></circle>
+            <path d="M6.2036,0.6008 L4.738868,2.2016 L2.2016,2.2016 C1.32116,2.2016 0.6008,2.92196 0.6008,3.8024 L0.6008,13.4072 C0.6008,14.28764 1.32116,15.008 2.2016,15.008 L15.008,15.008 C15.88844,15.008 16.6088,14.28764 16.6088,13.4072 L16.6088,3.8024 C16.6088,2.92196 15.88844,2.2016 15.008,2.2016 L12.470732,2.2016 L11.006,0.6008 L6.2036,0.6008 Z M8.6048,12.6068 C6.395696,12.6068 4.6028,10.813904 4.6028,8.6048 C4.6028,6.395696 6.395696,4.6028 8.6048,4.6028 C10.813904,4.6028 12.6068,6.395696 12.6068,8.6048 C12.6068,10.813904 10.813904,12.6068 8.6048,12.6068 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

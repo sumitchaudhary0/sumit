@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="124px" height="103px" viewBox="0 0 124 103" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>icons/verify_email</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="06.-Edit-Personal-Details" transform="translate(-181.000000, -492.000000)" stroke="#3538D0" stroke-width="2.11984172">
+            <g id="profile-copy" transform="translate(100.000000, 444.000000)">
+                <g id="icons/verify_email" transform="translate(83.000000, 50.000000)">
+                    <path d="M0,51.6781708 L58.461229,59.5081967 C61.5930806,59.5081967 64.2029569,57.9421915 65.7688826,55.3321829 L65.7688826,55.3321829 L85.0819672,0" id="_Path_"></path>
+                    <g id="_Group_2">
+                        <path d="M56.3496326,99.0232723 L116.319955,64.1148426 C119.970322,62.0307573 121.013284,57.3415652 118.92736,53.6944159 L90.2459016,3.67636743 C88.1599774,0.0292180593 83.4666478,-1.01282462 79.8162804,1.07126074 L3.68004522,45.3580745 C0.0296777841,47.4421598 -1.01328434,52.1313519 1.07263991,55.7785012 L25.5822499,99.0232723" id="_Path_2"></path>
+                    </g>
+                    <path d="M10.8196721,99.0983607 L109.672131,99.0983607" id="_Path_3"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

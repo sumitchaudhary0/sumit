@@ -1,0 +1,33 @@
+.pay-method-2
+{
+    appearance: none;
+    background-image: url('../../../HCBTC-Assets/icons//arrow.svg'),url('../../../HCBTC-Assets//icons/bank.svg');
+    background-repeat: no-repeat;
+    background-size:contain ,26px;
+    background-position:right, left;
+    font-size: 18px;
+    outline-offset: 15px;
+    outline: 1px solid #eeeefc;
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 18px;
+   
+}
+.pay-method-2 p{
+    padding-left: 45px;
+}
+.pay-method-2 p:first-child
+{
+    font-weight: 700;
+}
+.wire-details
+{
+    margin-top:50px;
+}
+.upload
+{}
+
+
+ 
+      
+    

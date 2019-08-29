@@ -1,0 +1,46 @@
+.banner-data {
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    text-transform: capitalize;
+    margin: 41px 0;
+}
+
+.banner-data img {
+    width: 330px;
+    height: 330px;
+}
+
+.banner-data div {
+    width: 50%;
+}
+
+@media screen and (max-width: 992px) {
+    .banner-data img {
+        width: 230px;
+        height: 230px;
+    }
+    .banner-data h2 {
+        font-size: 20px
+    }
+    .banner-data p {
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .banner-data img {
+        width: 130px;
+        height: 130px;
+    }
+    .banner-data h2 {
+        font-size: 15px
+    }
+    .banner-data p {
+        font-size: 7px;
+    }
+    .banner-data {
+        flex-direction: column;
+        margin: auto;
+    }
+}

@@ -1,0 +1,24 @@
+.contact {
+    background:#4D50D6;
+    margin:40px 0;
+    color: white;
+  }
+  .contact h3{
+      font-size: 30px;
+  }
+   .contact p{
+    font-size: 20px;
+    margin-top: -27px;
+
+  }
+.mail-image
+{
+    background-image: url('../../../HCBTC-Assets//icons//get_in_touch.svg');
+    background-repeat :no-repeat;
+    background-size: 180px;
+ 
+   
+}
+.mailbox{
+  padding:50px 0;
+}

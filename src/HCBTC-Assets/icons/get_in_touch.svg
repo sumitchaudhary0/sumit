@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="250px" height="207px" viewBox="0 0 250 207" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>icons/get_in_touch</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.100000001" stroke-linecap="round" stroke-linejoin="round">
+        <g id="get-in-touch" transform="translate(-5.000000, -63.000000)" stroke="#FFFFFF" stroke-width="4.31034483">
+            <g id="icons/get_in_touch">
+                <g transform="translate(8.000000, 66.000000)">
+                    <path d="M0,105.078947 L118.871166,121 C125.239264,121 130.546012,117.815789 133.730061,112.508772 L133.730061,112.508772 L173,0" id="_Path_"></path>
+                    <g id="_Group_2">
+                        <path d="M114.577586,201.34732 L236.517241,130.366847 C243.939655,126.129206 246.060345,116.594516 241.818966,109.178646 L183.5,7.47528043 C179.258621,0.059410054 169.715517,-2.05941005 162.293103,2.17823016 L7.48275862,92.2280848 C0.0603448276,96.465725 -2.06034483,106.000415 2.18103448,113.416286 L52.0172414,201.34732" id="_Path_2"></path>
+                    </g>
+                    <path d="M22,201.5 L223,201.5" id="_Path_3"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

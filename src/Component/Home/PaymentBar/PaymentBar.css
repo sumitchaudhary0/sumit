@@ -1,0 +1,28 @@
+.tab1 li
+{
+list-style: none;
+color: #3538D0;
+font-size: 20px;
+font-weight: bold;
+padding: 20px 0;
+border-bottom: 3px solid #3538D0;
+}
+.tab1{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 40px;
+
+}
+
+.wrapper
+{
+    max-width: 92%;
+    margin:auto;
+}
+.tab
+{    box-shadow: 5px 5px 22px #eeeefc; padding-bottom: 40px;
+}
+.info
+{
+    margin-top: -400px;
+}

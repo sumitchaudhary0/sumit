@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="720px" viewBox="0 0 1440 720" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>bg</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 1439.79546 0 1440 720 0 720"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01.-Home">
+            <g id="hero">
+                <g id="bg">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Rectangle" fill="#3538D0" xlink:href="#path-1"></use>
+                    <polygon id="Rectangle-Copy-3" fill="#9899EF" opacity="0.1" mask="url(#mask-2)" transform="translate(1145.500000, 157.500000) rotate(45.000000) translate(-1145.500000, -157.500000) " points="493 -272 1797.81463 -272 1798 587 493 587"></polygon>
+                    <polygon id="Rectangle-Copy-5" fill="#9899EF" opacity="0.1" mask="url(#mask-2)" transform="translate(1165.717261, -179.282739) rotate(-45.000000) translate(-1165.717261, 179.282739) " points="638.717261 -1054.78274 1692.56755 -1054.78274 1692.71726 696.217261 638.717261 696.217261"></polygon>
+                    <polygon id="Rectangle-Copy-6" fill="#9899EF" opacity="0.1" mask="url(#mask-2)" transform="translate(1320.000000, -246.500000) rotate(-45.000000) translate(-1320.000000, 246.500000) " points="793 -1122 1846.85029 -1122 1847 629 793 629"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

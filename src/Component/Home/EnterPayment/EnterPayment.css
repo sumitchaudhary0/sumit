@@ -1,0 +1,209 @@
+.enterpayment {
+    border-right: 1px solid #eeeefc;
+    padding-right: 90px;
+}
+
+.enterpayment select {
+    background-color: white;
+}
+
+.flex {
+    display: flex;
+}
+
+.direction {
+    flex-direction: column;
+}
+
+.enterpayment * {
+    margin: 0;
+    padding: 0;
+}
+
+.pay-method {
+    appearance: none;
+    background-image: url('../../../HCBTC-Assets/icons//arrow.svg'), url('../../../HCBTC-Assets//icons/credit-card.png');
+    background-repeat: no-repeat;
+    background-size: contain, 26px;
+    background-position: right, left;
+    font-size: 18px;
+    outline-offset: 15px;
+    outline: 1px solid #eeeefc;
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 18px;
+}
+
+.pay-method p {
+    padding-left: 45px;
+}
+
+.pay-method p:first-child {
+    font-weight: 700;
+}
+
+.label {
+    font-weight: bold;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #eeeefc;
+}
+
+.width {
+    width: 455px;
+}
+
+.pay-details input, .pass input {
+    width: 205px;
+    padding: 8px 15px;
+    border-radius: 3px;
+    box-sizing: border-box;
+}
+
+.city-selction select {
+    width: 215px;
+    appearance: none;
+    background-image: url('../../../HCBTC-Assets/icons//arrow.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+    padding: 14px !important;
+}
+
+.select-countries {
+    appearance: none;
+    background-image: url('../../../HCBTC-Assets/icons//arrow.svg'), url('../../../HCBTC-Assets//icons/country_flag.svg');
+    background-repeat: no-repeat;
+    background-size: contain, contain;
+    background-position: right, left;
+    font-size: 15px;
+    padding: 15px 56px;
+    border-radius: 3px;
+    font-weight: 500;
+    border: 1px solid #eeeefc;
+}
+
+.date {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background-image: url('../../../HCBTC-Assets/icons//calendar.svg'), url('../../../HCBTC-Assets/icons/arrow.svg');
+    background-repeat: no-repeat;
+    background-size: contain, contain;
+    background-position: 12px, right;
+    padding: 15px 70px;
+    border-radius: 3px;
+    font-weight: 500;
+    border: 1px solid #eeeefc;
+    border-radius: 3px;
+}
+
+.gray {
+    color: gray;
+    font-weight: 500;
+}
+
+.enterpayment ::placeholder {
+    color: black;
+}
+
+.enterpayment h5 {
+    font-size: 17px;
+}
+
+.enterpayment label {
+    padding: 30px 0;
+}
+
+.enterpayment input, .city-selction select {
+    border: 1px solid #eeeefc;
+    padding: 8px 15px;
+    border-radius: 3px;
+    box-sizing: border-box;
+}
+
+.mastercard {
+    background-image: url('../../../HCBTC-Assets/icons/master_card.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+    padding: 6px;
+    font-size: 5px;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.checkbox {
+    font-weight: 500;
+    width: 430px;
+}
+
+.pass {
+    width: 215px;
+}
+
+.confirmation {
+    text-align: center;
+    margin: 40px 0;
+    font-weight: 500;
+}
+
+.confirmation button {
+    background: #3538D0;
+    color: white;
+    border: none;
+    padding: 12px 74px;
+    border-radius: 4px;
+}
+
+.float-right {
+    display: flex;
+    flex-direction: column;
+    float: right;
+    width: 40%;
+    text-align: center;
+    height: 200px;
+}
+
+.float-right .box {
+    background: #3538D0;
+    color: white;
+}
+
+.total-amount {
+    background: #eeeefc;
+    padding-right: 34px;
+
+    
+    
+}
+
+.amount-list ul
+{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.border-bottom
+{
+    border-bottom: 2px solid darkgray;
+  
+    margin-left: 41px;
+}
+
+.amount-list 
+{
+    width: 100%;
+    margin: auto;
+    padding-right: 20px;
+}
+ .amount-list ul li{
+    list-style: none;
+
+}
+.color-main
+{
+   color: #3538D0;
+   font-weight: 900;
+}

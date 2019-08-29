@@ -1,0 +1,25 @@
+.container
+{
+    width:85%;
+    margin: auto;
+}
+.Banner{
+    background-image: url('../../HCBTC-Assets//hero-bg//bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:white;
+    height: 520px;
+}
+.Banner h2{
+    font-size:38px;
+}
+.Banner p{
+    font-size: 20px;
+    line-height: 32px;
+}
+.paymentbar
+{
+    background: white;
+    margin-top: -80px;
+
+}

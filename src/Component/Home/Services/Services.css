@@ -1,0 +1,27 @@
+.text-center
+{text-align: center;}
+.services h3
+{
+    font-size:30px;
+}
+.services h4
+{
+    font-size:25px;
+}
+.services p
+{
+    font-size:15px;
+    margin-top:-20px;
+}
+.services img
+{
+    width: 381px;
+    height: 224px;
+ }
+ .services-card
+
+ {
+     display: flex;
+     justify-content: space-around;
+ }
+ 
